@@ -1,1 +1,1 @@
-# everthrive-ai
+# EverThrive-AI
