@@ -17,8 +17,8 @@ Welcome to EverThrive-AI, your all-in-one Fullstack AI Fitness Coach! This proje
 - **Data Persistence**: Prisma ensures reliable data storage and retrieval, maintaining user profiles, progress logs, and other essential information securely.
 
 ## Getting Started:
-1. Clone the repository: `git clone https://github.com/your-username/EverThrive-AI.git`
-2. Install dependencies: `cd EverThrive-AI && npm install`
+1. Clone the repository
+2. Install dependencies
 3. Start the development server: `npm run dev`
 4. Access the application at [http://localhost:3000](http://localhost:3000)
 
